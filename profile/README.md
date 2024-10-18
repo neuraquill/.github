@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rightous&duration=5500&pause=1000&color=A302F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey!+%F0%9F%91%8B%2C+We're+Neuraquill;We provide AI solutions!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=Hey!+We're+Neuraquill;We+provide+AI+solutions!" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Web-Native and Standalone AI/LLM Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neuraquill&label=Profile%20views&color=0e75b6&style=flat" alt="neuraquill" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/neuraquill" target="blank"><img src="https://img.shields.io/twitter/follow/neuraquill?logo=twitter&style=for-the-badge" alt="neuraquill" /></a> </p>
+<!--<p align="right"> <a href="https://twitter.com/neuraquill" target="blank"><img src="https://img.shields.io/twitter/follow/neuraquill?logo=twitter&style=for-the-badge" alt="neuraquill" /></a> </p>-->
 
 - 👨‍💻 Explore us on [neuraquill.org](neuraquill.org)
 
