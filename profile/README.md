@@ -1,4 +1,6 @@
-<h1 align="center">Hey! We're Neuraquill</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rightous&duration=5500&pause=1000&color=A302F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey!+%F0%9F%91%8B%2C+We're+Neuraquill;We provide AI solutions!;" />
+</h1>
 <h3 align="center">Web-Native and Standalone AI/LLM Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neuraquill&label=Profile%20views&color=0e75b6&style=flat" alt="neuraquill" /> </p>
@@ -14,8 +16,8 @@
 
 - 📫 How to reach me **team@neuraquill.org**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/neuraquill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neuraquill" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/company/neuraquill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/neuraquill" height="30" width="40" /></a>
 </p>
