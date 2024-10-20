@@ -12,9 +12,9 @@
 
 <!-- - 📝 I regularly write articles on [neuraquill.org/blogs?](neuraquill.org/blogs?)-->
 
-- 💬 Ask me about **React, Flutter, TensorFlow, Torch, Jax**
+- 💬 Ask us about **React, Flutter, TensorFlow, Torch, Jax**
 
-- 📫 How to reach me **team@neuraquill.org**
+- 📫 How to reach us **team@neuraquill.org**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
